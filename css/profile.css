@@ -1,0 +1,49 @@
+html {
+    display:table;
+    margin:auto;
+}
+
+body {
+    font-family:PT Sans,system-ui,Segoe UI,Arial;
+    background:#f7f7f7;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+}
+
+.card {
+    width:320px;
+    background:#fff;
+    padding:28px;
+    border-radius:12px;
+    box-shadow:0 6px 22px rgba(0,0,0,.08);
+    text-align:center;
+}
+
+img {
+    width:96px;
+    height:96px;
+    border-radius:50%;
+}
+
+h1 {
+    font-family:Ropa Sans;
+    margin:12px 0 6px;
+    font-size:20px;
+    text-transform: uppercase;
+}
+
+p {
+    margin:0 0 18px;
+    color:#555;
+}
+
+.btn {
+    display:block;
+    text-decoration:none;
+    background:#111;
+    color:#fff;
+    padding:12px;
+    border-radius:8px;
+    margin:8px 0;
+}
